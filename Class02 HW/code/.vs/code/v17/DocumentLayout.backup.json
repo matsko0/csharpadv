@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBAAA32-5380-4DAF-BA25-26D2EF874E00}|Class02HW\\Class02HW.csproj|c:\\users\\aleks\\desktop\\class02 hw\\code\\class02hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBAAA32-5380-4DAF-BA25-26D2EF874E00}|Class02HW\\Class02HW.csproj|solutionrelative:class02hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66428438-BB44-4CF2-9724-5CBDC6D8D2E7}|Domain\\Domain.csproj|c:\\users\\aleks\\desktop\\class02 hw\\code\\domain\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66428438-BB44-4CF2-9724-5CBDC6D8D2E7}|Domain\\Domain.csproj|solutionrelative:domain\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66428438-BB44-4CF2-9724-5CBDC6D8D2E7}|Domain\\Domain.csproj|c:\\users\\aleks\\desktop\\class02 hw\\code\\domain\\classes\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66428438-BB44-4CF2-9724-5CBDC6D8D2E7}|Domain\\Domain.csproj|solutionrelative:domain\\classes\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66428438-BB44-4CF2-9724-5CBDC6D8D2E7}|Domain\\Domain.csproj|c:\\users\\aleks\\desktop\\class02 hw\\code\\domain\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66428438-BB44-4CF2-9724-5CBDC6D8D2E7}|Domain\\Domain.csproj|solutionrelative:domain\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Domain\\Classes\\Programmer.cs",
+              "RelativeDocumentMoniker": "Domain\\Classes\\Programmer.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Domain\\Classes\\Programmer.cs",
+              "RelativeToolTip": "Domain\\Classes\\Programmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:29:22.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Domain\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "Domain\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Domain\\Classes\\Manager.cs",
+              "RelativeToolTip": "Domain\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:19:37.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Class02HW\\Program.cs",
+              "RelativeDocumentMoniker": "Class02HW\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Class02HW\\Program.cs",
+              "RelativeToolTip": "Class02HW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:57:46.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Domain\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "Domain\\Classes\\Employee.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\Class02 HW\\code\\Domain\\Classes\\Employee.cs",
+              "RelativeToolTip": "Domain\\Classes\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:16:15.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
