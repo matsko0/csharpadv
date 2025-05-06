@@ -1,4 +1,0 @@
-C:\Users\aleks\Desktop\Class02 HW\code\Class02HWClassesAndInterfaces.Domain\obj\Debug\net8.0\Class02HWClassesAndInterfaces.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\aleks\Desktop\Class02 HW\code\Class02HWClassesAndInterfaces.Domain\obj\Debug\net8.0\Class02HWClassesAndInterfaces.Domain.AssemblyInfoInputs.cache
-C:\Users\aleks\Desktop\Class02 HW\code\Class02HWClassesAndInterfaces.Domain\obj\Debug\net8.0\Class02HWClassesAndInterfaces.Domain.AssemblyInfo.cs
-C:\Users\aleks\Desktop\Class02 HW\code\Class02HWClassesAndInterfaces.Domain\obj\Debug\net8.0\Class02HWClassesAndInterfaces.Domain.csproj.CoreCompileInputs.cache
