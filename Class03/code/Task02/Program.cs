@@ -40,18 +40,17 @@ plane.DisplayInfo()
 // Saling
 // Flying
 
-Car car = new Car();
-MotorBike motorBike = new MotorBike();
-Boat boat = new Boat();
-Airplane plane = new Airplane();
+Vehicle car = new Car();
+Vehicle motorBike = new MotorBike();
+Vehicle boat = new Boat();
+Vehicle plane = new Airplane();
 
 car.DisplayInfo();
 motorBike.DisplayInfo();
 boat.DisplayInfo();
 plane.DisplayInfo();
 
-//changed (Vehilce) so can access specific methods Directly
-car.Drive();
-motorBike.Wheelie();
-boat.Sail();
-plane.Fly();
+((Car)car).Drive();
+((MotorBike)motorBike).Wheelie();
+((Boat)boat).Sail();
+((Airplane)plane).Fly();

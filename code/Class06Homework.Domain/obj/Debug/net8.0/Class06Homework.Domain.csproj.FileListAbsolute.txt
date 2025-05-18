@@ -1,0 +1,12 @@
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\bin\Debug\net8.0\Class06Homework.Domain.deps.json
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\bin\Debug\net8.0\Class06Homework.Domain.dll
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\bin\Debug\net8.0\Class06Homework.Domain.pdb
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.AssemblyInfo.cs
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.sourcelink.json
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.dll
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\refint\Class06Homework.Domain.dll
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\Class06Homework.Domain.pdb
+C:\Users\aleks\Desktop\C#advHw\code\Class06Homework.Domain\obj\Debug\net8.0\ref\Class06Homework.Domain.dll
